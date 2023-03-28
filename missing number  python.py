@@ -9,7 +9,13 @@ class My:
          print("My")
      for i in range(0,6):
          my()
-      
+n=[1,2,3,5]
+num=5
+d=num*(num+1)/2
+for i in n:
+     sum+=i
+print('missing number is ', (d-sum))     
+     
 import numpy as np
 arr = [[20, 2, 7, 1, 34],[20,2,7,1,2]]
   
